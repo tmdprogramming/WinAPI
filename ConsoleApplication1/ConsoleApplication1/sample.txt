@@ -1,0 +1,5 @@
+PID = 46 is invalid/not included on snap shot
+PID 0: [System Process]
+PID 488: lsass.exe
+PID 4064: esif_uf.exe
+PID = 4076 is invalid/not included on snap shot
